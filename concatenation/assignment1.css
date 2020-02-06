@@ -1,0 +1,33 @@
+#dealCont{
+	float:left;
+	border:1px solid black;
+	padding:5px;
+	margin:5px;
+}
+.product{
+	width:180px;
+	float:left;
+	padding:5px;
+	margin:5px;
+}
+.brand{
+		color:black;
+		font-weight:bold;
+		padding:2px;
+		margin:2px;
+}
+.price{
+	color:green;
+	padding:2px;
+	margin:2px;
+}
+.image{
+	width:auto;
+	height:auto;
+	margin:5px;
+}
+.category{
+	color:black;
+	padding:2px;
+	margin:2px;
+}
